@@ -1,4 +1,4 @@
-# Get start with POSWeb Backend
+# Get start with HRCloud Backend
 As you've clone this project, don't forget to run this command in this project
 ## npm i
 
