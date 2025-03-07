@@ -70,7 +70,7 @@ And then export to use in other file
 
 ![Screenshot 2025-03-07 143051](https://github.com/user-attachments/assets/9bc7e8d5-68cc-4a9e-b76c-ef38874c00b9)
 
-## product.model
+## HRcould.model
 it contains model to create table in database and match to table.
 
 ![Screenshot 2025-03-07 143111](https://github.com/user-attachments/assets/1320faf4-b7cf-428f-af77-3ff239e70db5)
