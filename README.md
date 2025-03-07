@@ -73,13 +73,7 @@ And then export to use in other file
 ## product.model
 it contains model to create table in database and match to table.
 
-
-# routes
-This file contains routes of APIs to lead every requests to controllers.
-
-## user.routes
-it contains every routes to go to controllers.
-
+![Screenshot 2025-03-07 143111](https://github.com/user-attachments/assets/1320faf4-b7cf-428f-af77-3ff239e70db5)
 
 # server.js
 This file is an endpoint for every requests to go to other routes.
